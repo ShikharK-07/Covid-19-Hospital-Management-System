@@ -2,6 +2,13 @@
 
 
 <!-- about us & view patient -->
+<img src="Screenshots/About_1.PNG" width="500">
+<img src="Screenshots/Dashboard.png" width="500">
+<img src="Screenshots/add_patient1.PNG" width="500">
+<img src="Screenshots/login.png" width="500">
+
+<img src="Screenshots/update.PNG" width="500">
+
 ### Tech Stack
 - Frontend
 	- HTML5
